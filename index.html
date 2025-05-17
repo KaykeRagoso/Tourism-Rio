@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>TourismRio - Pontos Turísticos do RJ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>TourismRio</h1>
+    <nav style="display: flex; align-items: center; justify-content: center; gap: 1.2rem; flex-wrap: wrap;">
+      <span style="font-size:1.08rem; color:#fff;">Escolha o tipo de ponto turístico:</span>
+      <select id="filterType">
+        <option value="todos">Todos os tipos</option>
+        <option value="cultural">Cultural</option>
+        <option value="natureza">Natureza</option>
+        <option value="praia">Praia</option>
+        <option value="aventura">Aventura</option>
+      </select>
+      <span style="font-size:1.08rem; color:#fff;">Cidade:</span>
+      <select id="filterCity">
+        <option value="todas">Todas as cidades</option>
+        <!-- cidades serão preenchidas via JS -->
+      </select>
+      <input id="searchBar" type="text" placeholder="Pesquisar por pontos turísticos..." style="padding:0.5rem 1rem; border-radius:20px; border:1px solid #ccc; min-width:220px; font-size:1rem;">
+    </nav>
+  </header>
+  <main>
+    <div id="content-wrapper">
+      <section id="ranking">
+        <h2>Ranking dos Pontos Turísticos</h2>
+        <ul id="spotList"></ul>
+      </section>
+      <section id="mapa">
+        <h2>Mapa dos Pontos Turísticos</h2>
+        <iframe
+          id="mapFrame"
+          width="100%"
+          height="400"
+          frameborder="0"
+          style="border:0"
+          src="https://www.google.com/maps/d/embed?mid=1n3k6v8v8v8v8v8v8v8v8v8v8v8v8v8v&hl=pt-BR"
+          allowfullscreen>
+        </iframe>
+      </section>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 TourismRio | Todos os direitos reservados</p>
+  </footer>
+  <!-- Firebase App (obrigatório) -->
+  <script src="https://www.gstatic.com/firebasejs/10.11.0/firebase-app-compat.js"></script>
+  <!-- Firestore -->
+  <script src="https://www.gstatic.com/firebasejs/10.11.0/firebase-firestore-compat.js"></script>
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyDd7aJ0uOa8JM-SjJuvvs8amYn1tREWBrM",
+      authDomain: "tourism-rio.firebaseapp.com",
+      projectId: "tourism-rio",
+      storageBucket: "tourism-rio.firebasestorage.app",
+      messagingSenderId: "674442284725",
+      appId: "1:674442284725:web:c5307e0cde75ee566278fc",
+      measurementId: "G-V44JQWL683"
+    };
+    firebase.initializeApp(firebaseConfig);
+    window.db = firebase.firestore();
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
