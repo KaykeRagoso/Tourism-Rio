@@ -4,7 +4,7 @@ import os
 import unicodedata
 
 # Caminho para o arquivo de credenciais do Firebase
-cred_path = 'C:/Users/16380127763/Documents/Tourism-Rio/tourism-rio-firebase-adminsdk-fbsvc-b738040b8b.json'
+cred_path = 'C:/Users/Administrator/Documents/tourism-Rio/backend/tourism-rio-firebase-adminsdk-fbsvc-b738040b8b.json'
 
 # Inicializa o Firestore
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = cred_path

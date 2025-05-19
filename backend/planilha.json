@@ -1,6 +1,6 @@
 [
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Um dos maiores parques aquáticos do estado do Rio de Janeiro, o Aldeia das Águas Park Resort oferece diversão para toda a família com toboáguas, piscinas termais, áreas de lazer e hospedagem completa em meio à natureza.",
     "preco": 50,
     "nome": "Aldeia das Águas Park Resort",
     "visitas": [
@@ -25,7 +25,7 @@
     "id": "aldeia_das_aguas_park_resort"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Tradicional ponto de encontro boêmio na Zona Sul do Rio, o Baixo Gávea é conhecido por seus bares animados, ambiente descontraído e grande circulação de jovens, artistas e intelectuais. É um local ideal para quem busca diversão, música ao vivo e uma atmosfera vibrante.",
     "preco": 0,
     "nome": "Baixo Gávea",
     "visitas": [
@@ -49,7 +49,7 @@
     "id": "baixo_gavea"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Com atmosfera inspirada no escritor Charles Bukowski, este bar é um dos mais antigos do Rio de Janeiro dedicados ao rock, oferecendo shows ao vivo, pista de dança e um público fiel nas noites cariocas.",
     "preco": 25,
     "nome": "Bar Bukowski",
     "visitas": [
@@ -73,7 +73,7 @@
     "id": "bar_bukowski"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O complexo DownTown na Barra da Tijuca reúne bares, restaurantes, lojas e eventos culturais ao ar livre, sendo um dos principais polos de vida noturna e entretenimento da região.",
     "preco": 0,
     "nome": "Barra da Tijuca - DownTown",
     "visitas": [
@@ -97,7 +97,7 @@
     "id": "barra_da_tijuca_-_downtown"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O Barra Shopping é um dos principais centros de compras da cidade, com lojas de moda, roupas, acessórios, bebidas, alimentos, e muito mais.",
     "preco": 0,
     "nome": "BarraShopping",
     "visitas": [
@@ -122,7 +122,7 @@
     "id": "barrashopping"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "A Basílica Santuário de Nossa Senhora da Penha é um dos maiores santuários religiosos da cidade, com uma arquitetura moderna e um espaço de culto com uma grande capela e uma igreja de estilo romântico.",
     "preco": 0,
     "nome": "Basílica Santuário de Nossa Senhora da Penha",
     "visitas": [
@@ -146,7 +146,7 @@
     "id": "basilica_santuario_de_nossa_senhora_da_penha"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Bosque da Barra é um dos principais bosques da cidade, com uma grande área de floresta e uma grande quantidade de árvores. É um local ideal para caminhadas, piqueniques e atividades ao ar livre.",
     "preco": 0,
     "nome": "Bosque da Barra",
     "visitas": [
@@ -171,7 +171,7 @@
     "id": "bosque_da_barra"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Botafogo praia shopping é um dos principais shoppings da cidade, com uma grande variedade de lojas, restaurantes e entretenimento. É um local ideal para compras e lazer.",
     "preco": 0,
     "nome": "Botafogo Praia Shopping",
     "visitas": [
@@ -196,7 +196,7 @@
     "id": "botafogo_praia_shopping"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O casa Cavé é um dos principais pontos turísticos da cidade, com uma variedade de pratos e bebidas de qualidade.",
     "preco": 30,
     "nome": "Casa Cavé",
     "visitas": [
@@ -220,7 +220,7 @@
     "id": "casa_cave"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Casa da Matriz é um dos principais pontos turísticos da cidade, com uma variedade de pratos e bebidas de qualidade.",
     "preco": 15,
     "nome": "Casa da Matriz",
     "visitas": [
@@ -244,7 +244,7 @@
     "id": "casa_da_matriz"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Casa frança-Brasil é um dos principais pontos turísticos da cidade, com uma variedade de pratos e bebidas de qualidade.",
     "preco": 0,
     "nome": "Casa França-Brasil",
     "visitas": [
@@ -269,7 +269,7 @@
     "id": "casa_franca-brasil"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "A Catedral Metropolitana de São Sebastião é um dos principais pontos turísticos da cidade, com uma variedade de pratos e bebidas de qualidade.",
     "preco": 0,
     "nome": "Catedral Metropolitana de São Sebastião",
     "visitas": [
@@ -293,7 +293,7 @@
     "id": "catedral_metropolitana_de_sao_sebastiao"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O CCB é o lar de exposições, mostras de cinema, teatro e música. O espaço é conhecido por sua arquitetura moderna e por abrigar eventos culturais de grande relevância.",
     "preco": 0,
     "nome": "Centro Cultural Banco do Brasil (CCBB)",
     "visitas": [
@@ -318,7 +318,7 @@
     "id": "centro_cultural_banco_do_brasil_(ccbb)"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O Centro Cultural São Luiz é um espaço dedicado à cultura e às artes, com uma programação diversificada que inclui teatro, música, dança e exposições. O local é conhecido por sua arquitetura moderna e por abrigar eventos culturais de grande relevância.",
     "preco": 10,
     "nome": "Centro Cultural São Luiz",
     "visitas": [
@@ -342,7 +342,7 @@
     "id": "centro_cultural_sao_luiz"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O famoso Circo Voador é um dos principais pontos turísticos da cidade, com uma variedade de pratos e bebidas de qualidade.",
     "preco": 35,
     "nome": "Circo Voador",
     "visitas": [
@@ -366,7 +366,7 @@
     "id": "circo_voador"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Clássico Sunset Club é um dos principais pontos turísticos da cidade, com uma variedade de pratos e bebidas de qualidade. Muito famoso por sua comida e bebida.",
     "preco": 120,
     "nome": "Clássico Sunset Club",
     "visitas": [
@@ -390,7 +390,7 @@
     "id": "classico_sunset_club"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "A grande confeitaria Colombo é famosa por suas praias e bebidas de qualidade. É um dos principais pontos turísticos da cidade, com uma variedade de pratos e bebidas.",
     "preco": 50,
     "nome": "Confeitaria Colombo",
     "visitas": [
@@ -462,7 +462,7 @@
     "id": "escadaria_selaron"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O classico estadio Antônio Mourão Vieira Filho é um estadio de futebol de 10.000 lugares, localizado no Rio de Janeiro. É um dos principais estadios do futebol brasileiro e é conhecido por sua capacidade para receber grandes torneios e eventos.",
     "preco": 15,
     "nome": "Estádio Antônio Mourão Vieira Filho",
     "visitas": [
@@ -487,7 +487,7 @@
     "id": "estadio_antonio_mourao_vieira_filho"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O Conselheiro Galvão é um estadio de futebol, localizado no Rio de Janeiro. É um classico do futebol carioca.",
     "preco": 10,
     "nome": "Estádio Conselheiro Galvão",
     "visitas": [
@@ -512,7 +512,7 @@
     "id": "estadio_conselheiro_galvao"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O Estádio da Gávea, lar de um dos maiores times de futebol do Brasil, casa e campo de treinamento do Flamengo.",
     "preco": 30,
     "nome": "Estádio da Gávea",
     "visitas": [
@@ -537,7 +537,7 @@
     "id": "estadio_da_gavea"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O Estádio das Laranjeiras, lar de um dos maiores times de futebol do Brasil, casa e campo de treinamento do Fluminense. O Primeiro estadio do Brasil.",
     "preco": 30,
     "nome": "Estádio das Laranjeiras",
     "visitas": [
@@ -562,7 +562,7 @@
     "id": "estadio_das_laranjeiras"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Um dos maiores estadios do suburbio carioca, o Estádio de Moça Bonita é conhecido por sua capacidade para receber grandes torneios e eventos futebolisticos.",
     "preco": 15,
     "nome": "Estádio de Moça Bonita",
     "visitas": [
@@ -587,7 +587,7 @@
     "id": "estadio_de_moca_bonita"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O Maior estádio de futebol do Brasil, o Estádio do Maracanã é conhecido por sua capacidade para receber grandes torneios e eventos futebolisticos.",
     "preco": 84,
     "nome": "Estádio do Maracanã",
     "visitas": [
@@ -612,7 +612,7 @@
     "id": "estadio_do_maracana"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "O Estadio Giulite Coutinho é um estádio de futebol localizado em Mesquita, no estado do Rio de Janeiro.",
     "preco": 25,
     "nome": "Estádio Giulite Coutinho",
     "visitas": [
@@ -637,7 +637,7 @@
     "id": "estadio_giulite_coutinho"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Estádio com história no futebol carioca, utilizado para jogos e eventos esportivos.",
     "preco": 20,
     "nome": "Estádio Luso-Brasileiro",
     "visitas": [
@@ -662,7 +662,7 @@
     "id": "estadio_luso-brasileiro"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Estádio moderno, sede de grandes eventos esportivos e shows.",
     "preco": 50,
     "nome": "Estádio Olímpico Nilton Santos",
     "visitas": [
@@ -687,7 +687,7 @@
     "id": "estadio_olimpico_nilton_santos"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Casa do Vasco da Gama, com história e tradição no futebol brasileiro.",
     "preco": 40,
     "nome": "Estádio São Januário",
     "visitas": [
@@ -712,7 +712,7 @@
     "id": "estadio_sao_januario"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Farol localizado em Maricá, com vista para o mar e paisagem deslumbrante.",
     "preco": 0,
     "nome": "Farol de Ponta Negra",
     "visitas": [
@@ -737,7 +737,7 @@
     "id": "farol_de_ponta_negra"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Fazenda histórica em Nova Friburgo, com arquitetura colonial e atividades rurais.",
     "preco": 20,
     "nome": "Fazenda da Posse",
     "visitas": [
@@ -761,7 +761,7 @@
     "id": "fazenda_da_posse"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Fazenda em Conservatória, conhecida por sua paisagem serrana e atividades ao ar livre.",
     "preco": 18,
     "nome": "Fazenda da Serra",
     "visitas": [
@@ -785,7 +785,7 @@
     "id": "fazenda_da_serra"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Fazenda em Visconde de Mauá, ideal para ecoturismo e contato com a natureza.",
     "preco": 30,
     "nome": "Fazenda Santa Cecília",
     "visitas": [
@@ -809,7 +809,7 @@
     "id": "fazenda_santa_cecilia"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Fazenda em Petrópolis, com arquitetura histórica e atividades rurais.",
     "preco": 25,
     "nome": "Fazenda São José",
     "visitas": [
@@ -833,7 +833,7 @@
     "id": "fazenda_sao_jose"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque aquático no Rio, com atrações para crianças e famílias.",
     "preco": 18,
     "nome": "Fazendinha Splash Park",
     "visitas": [
@@ -881,7 +881,7 @@
     "id": "feira_de_sao_cristovao"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Casa noturna no Rio, conhecida por sua atmosfera eletrônica e festas temáticas.",
     "preco": 20,
     "nome": "Fosfobox",
     "visitas": [
@@ -905,7 +905,7 @@
     "id": "fosfobox"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Uma das maiores bibliotecas da América Latina, com acervo vasto e arquitetura impressionante.",
     "preco": 0,
     "nome": "Fundação Biblioteca Nacional",
     "visitas": [
@@ -930,7 +930,7 @@
     "id": "fundacao_biblioteca_nacional"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Espaço dedicado à arte contemporânea, com exposições de artistas locais e internacionais.",
     "preco": 0,
     "nome": "Galeria de Arte Ipanema",
     "visitas": [
@@ -954,7 +954,7 @@
     "id": "galeria_de_arte_ipanema"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Atração natural em Maricá, com formações rochosas e paisagem única.",
     "preco": 0,
     "nome": "Gruta da Sacristia",
     "visitas": [
@@ -979,7 +979,7 @@
     "id": "gruta_da_sacristia"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Resort com parque aquático e opções de hospedagem, ideal para famílias.",
     "preco": 25,
     "nome": "Hode Luã Resort",
     "visitas": [
@@ -1003,7 +1003,7 @@
     "id": "hode_lua_resort"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque de diversões indoor no BarraShopping, com jogos e atrações para todas as idades.",
     "preco": 20,
     "nome": "HotZone BarraShopping",
     "visitas": [
@@ -1028,7 +1028,7 @@
     "id": "hotzone_barrashopping"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Igreja histórica no Rio, conhecida por sua escadaria e festas religiosas.",
     "preco": 0,
     "nome": "Igreja da Penha",
     "visitas": [
@@ -1052,7 +1052,7 @@
     "id": "igreja_da_penha"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Igreja em Paraty, com arquitetura colonial e importância cultural.",
     "preco": 0,
     "nome": "Igreja de Nossa Senhora do Rosário e São Benedito",
     "visitas": [
@@ -1076,7 +1076,7 @@
     "id": "igreja_de_nossa_senhora_do_rosario_e_sao_benedito"
   },
   {
-    "descricao": "Teste",
+    "descricao": "Ilha histórica no Rio, conhecida por seu castelo e eventos culturais.",
     "preco": 30,
     "nome": "Ilha Fiscal",
     "visitas": [
@@ -1100,7 +1100,7 @@
     "id": "ilha_fiscal"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Arquipélago próximo ao Rio, ideal para passeios de barco e mergulho.",
     "preco": 0,
     "nome": "Ilhas Cagarras",
     "visitas": [
@@ -1125,7 +1125,7 @@
     "id": "ilhas_cagarras"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Centro cultural com exposições de fotografia, arte e música.",
     "preco": 0,
     "nome": "Instituto Moreira Salles (IMS)",
     "visitas": [
@@ -1149,7 +1149,7 @@
     "id": "instituto_moreira_salles_(ims)"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Jardim com vasta coleção de plantas, trilhas e paisagens deslumbrantes.",
     "preco": 15,
     "nome": "Jardim Botânico do Rio de Janeiro",
     "visitas": [
@@ -1174,7 +1174,7 @@
     "id": "jardim_botanico_do_rio_de_janeiro"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque de aventuras na Lagoa Rodrigo de Freitas, com atividades ao ar livre.",
     "preco": 100,
     "nome": "Lagoa Aventuras",
     "visitas": [
@@ -1199,7 +1199,7 @@
     "id": "lagoa_aventuras"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Bairro boêmio do Rio, famoso por seus bares, música ao vivo e vida noturna.",
     "preco": 0,
     "nome": "Lapa",
     "visitas": [
@@ -1223,7 +1223,7 @@
     "id": "lapa"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque aquático com toboáguas e piscinas, ideal para diversão em família.",
     "preco": 20,
     "nome": "Megaville Club Guaratiba",
     "visitas": [
@@ -1247,7 +1247,7 @@
     "id": "megaville_club_guaratiba"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Ponto de vista no Leblon, com vista panorâmica para a praia e montanhas.",
     "preco": 0,
     "nome": "Mirante do Leblon",
     "visitas": [
@@ -1271,7 +1271,7 @@
     "id": "mirante_do_leblon"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Mirante no Rio, oferecendo vistas deslumbrantes da natureza ao redor.",
     "preco": 0,
     "nome": "Mirante do Roncador",
     "visitas": [
@@ -1295,7 +1295,7 @@
     "id": "mirante_do_roncador"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Mirante com vista para o Cristo Redentor e a Baía de Guanabara.",
     "preco": 0,
     "nome": "Mirante Dona Marta",
     "visitas": [
@@ -1319,7 +1319,7 @@
     "id": "mirante_dona_marta"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Ponto de aventura em Itatiaia, ideal para trilhas e ecoturismo.",
     "preco": 0,
     "nome": "Morro do Couto",
     "visitas": [
@@ -1344,7 +1344,7 @@
     "id": "morro_do_couto"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Dois picos com vista para o Rio, acessíveis por trilhas ou voo livre.",
     "preco": 0,
     "nome": "Morro Dois Irmãos",
     "visitas": [
@@ -1369,7 +1369,7 @@
     "id": "morro_dois_irmaos"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Mosteiro histórico no Rio, com arquitetura barroca e missas cantadas.",
     "preco": 0,
     "nome": "Mosteiro de São Bento",
     "visitas": [
@@ -1441,7 +1441,7 @@
     "id": "museu_carmen_miranda"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Museu de arte popular brasileira, com acervo de esculturas e obras de artistas regionais.",
     "preco": 12,
     "nome": "Museu Casa do Pontal",
     "visitas": [
@@ -1489,7 +1489,7 @@
     "id": "museu_da_historia_e_da_cultura_afro-brasileira_(muhcab)"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Museu que retrata a vida e cultura da comunidade da Maré, no Rio.",
     "preco": 0,
     "nome": "Museu da Maré",
     "visitas": [
@@ -1513,7 +1513,7 @@
     "id": "museu_da_mare"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Localizado no Palácio do Catete, o museu aborda a história política do Brasil.",
     "preco": 5,
     "nome": "Museu da República",
     "visitas": [
@@ -1561,7 +1561,7 @@
     "id": "museu_da_vida_fiocruz"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Museu com exposições de arte brasileira e internacional, além de programas educativos.",
     "preco": 20,
     "nome": "Museu de Arte do Rio (MAR)",
     "visitas": [
@@ -1658,7 +1658,7 @@
     "id": "museu_do_samba"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Um dos mais importantes museus de história do Brasil, com acervo vasto e diversificado.",
     "preco": 8,
     "nome": "Museu Histórico Nacional",
     "visitas": [
@@ -1682,7 +1682,7 @@
     "id": "museu_historico_nacional"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Museu de história natural e antropologia, com coleções científicas e exposições.",
     "preco": 10,
     "nome": "Museu Nacional",
     "visitas": [
@@ -1706,7 +1706,7 @@
     "id": "museu_nacional"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Museu com acervo de artes plásticas, incluindo obras de artistas brasileiros e estrangeiros.",
     "preco": 10,
     "nome": "Museu Nacional de Belas Artes",
     "visitas": [
@@ -1779,7 +1779,7 @@
     "id": "museu_penitenciario_do_estado_do_rio_de_janeiro"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping no Rio, com lojas, cinema e opções de gastronomia.",
     "preco": 0,
     "nome": "NorteShopping",
     "visitas": [
@@ -1804,7 +1804,7 @@
     "id": "norteshopping"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Edifício histórico no Centro do Rio, com exposições e eventos culturais.",
     "preco": 0,
     "nome": "Paço Imperial",
     "visitas": [
@@ -1829,7 +1829,7 @@
     "id": "paco_imperial"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Maior parque urbano do Rio, com trilhas, cachoeiras e natureza preservada.",
     "preco": 0,
     "nome": "Parque Estadual da Pedra Branca",
     "visitas": [
@@ -1854,7 +1854,7 @@
     "id": "parque_estadual_da_pedra_branca"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque em Santa Maria Madalena, ideal para ecoturismo e observação da natureza",
     "preco": 0,
     "nome": "Parque Estadual do Desengano",
     "visitas": [
@@ -1879,7 +1879,7 @@
     "id": "parque_estadual_do_desengano"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque em Nova Friburgo, com trilhas, cachoeiras e paisagens deslumbrantes.",
     "preco": 0,
     "nome": "Parque Estadual dos Três Picos",
     "visitas": [
@@ -1904,7 +1904,7 @@
     "id": "parque_estadual_dos_tres_picos"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque no Rio, com jardins, trilhas e escola de artes visuais.",
     "preco": 0,
     "nome": "Parque Lage",
     "visitas": [
@@ -1953,7 +1953,7 @@
     "id": "parque_nacional_da_serra_dos_orgaos"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Maior floresta urbana do mundo, com trilhas, cachoeiras e o Corcovado.",
     "preco": 0,
     "nome": "Parque Nacional da Tijuca",
     "visitas": [
@@ -1978,7 +1978,7 @@
     "id": "parque_nacional_da_tijuca"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Primeiro parque nacional do Brasil, com montanhas, trilhas e biodiversidade.",
     "preco": 18,
     "nome": "Parque Nacional do Itatiaia",
     "visitas": [
@@ -2003,7 +2003,7 @@
     "id": "parque_nacional_do_itatiaia"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque com trilhas e paisagens serranas, ideal para ecoturismo.",
     "preco": 0,
     "nome": "Parque Natural Municipal Montanhas de Teresópolis",
     "visitas": [
@@ -2028,7 +2028,7 @@
     "id": "parque_natural_municipal_montanhas_de_teresopolis"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque temático no Rio, com atrações para crianças e famílias.",
     "preco": 10,
     "nome": "Parque Shanghai",
     "visitas": [
@@ -2077,7 +2077,7 @@
     "id": "pedra_bonita"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque de diversões indoor no Rio, com jogos e atrações para todas as idades.",
     "preco": 15,
     "nome": "Play City",
     "visitas": [
@@ -2102,7 +2102,7 @@
     "id": "play_city"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Área com restaurantes variados, oferecendo gastronomia de qualidade.",
     "preco": 70,
     "nome": "Polo Gastronômico Baixo Uruguai",
     "visitas": [
@@ -2126,7 +2126,7 @@
     "id": "polo_gastronomico_baixo_uruguai"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Rua no Leblon conhecida por seus restaurantes sofisticados e gastronomia diversificada.",
     "preco": 100,
     "nome": "Polo Gastronômico Dias Ferreira",
     "visitas": [
@@ -2150,7 +2150,7 @@
     "id": "polo_gastronomico_dias_ferreira"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Região com restaurantes especializados em frutos do mar e culinária local.",
     "preco": 90,
     "nome": "Polo Gastronômico Pedra de Guaratiba",
     "visitas": [
@@ -2174,7 +2174,7 @@
     "id": "polo_gastronomico_pedra_de_guaratiba"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Área com opções gastronômicas variadas, desde comida caseira até pratos elaborados.",
     "preco": 80,
     "nome": "Polo Gastronômico Praça da Bandeira",
     "visitas": [
@@ -2198,7 +2198,7 @@
     "id": "polo_gastronomico_praca_da_bandeira"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Polo gastronômico no subúrbio do Rio, com restaurantes e bares.",
     "preco": 60,
     "nome": "Polo Gastronômico Vista Alegre",
     "visitas": [
@@ -2222,7 +2222,7 @@
     "id": "polo_gastronomico_vista_alegre"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia extensa e popular, ideal para esportes aquáticos e relaxamento.",
     "preco": 0,
     "nome": "Praia da Barra da Tijuca",
     "visitas": [
@@ -2247,7 +2247,7 @@
     "id": "praia_da_barra_da_tijuca"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Uma das praias mais famosas do mundo, com calçadão e vida urbana intensa.",
     "preco": 0,
     "nome": "Praia de Copacabana",
     "visitas": [
@@ -2272,7 +2272,7 @@
     "id": "praia_de_copacabana"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia preservada no Rio, cercada por natureza e ideal para tranquilidade.",
     "preco": 0,
     "nome": "Praia de Grumari",
     "visitas": [
@@ -2297,7 +2297,7 @@
     "id": "praia_de_grumari"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia icônica do Rio, conhecida por seu pôr do sol e atmosfera cultural.",
     "preco": 0,
     "nome": "Praia de Ipanema",
     "visitas": [
@@ -2322,7 +2322,7 @@
     "id": "praia_de_ipanema"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia em Angra dos Reis, famosa por suas águas cristalinas e areia branca.",
     "preco": 0,
     "nome": "Praia de Lopes Mendes",
     "visitas": [
@@ -2347,7 +2347,7 @@
     "id": "praia_de_lopes_mendes"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia entre Copacabana e Ipanema, conhecida por suas ondas e pôr do sol.",
     "preco": 0,
     "nome": "Praia do Arpoador",
     "visitas": [
@@ -2372,7 +2372,7 @@
     "id": "praia_do_arpoador"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia isolada em Angra dos Reis, de acesso apenas por trilha ou barco.",
     "preco": 0,
     "nome": "Praia do Aventureiro",
     "visitas": [
@@ -2397,7 +2397,7 @@
     "id": "praia_do_aventureiro"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia em Arraial do Cabo, com águas transparentes e paisagem deslumbrante.",
     "preco": 0,
     "nome": "Praia do Farol",
     "visitas": [
@@ -2422,7 +2422,7 @@
     "id": "praia_do_farol"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia em Arraial do Cabo, conhecida por suas formações rochosas e águas calmas.",
     "preco": 0,
     "nome": "Praia do Forno",
     "visitas": [
@@ -2447,7 +2447,7 @@
     "id": "praia_do_forno"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Praia pequena e preservada no Rio, cercada por mata atlântica.",
     "preco": 0,
     "nome": "Prainha",
     "visitas": [
@@ -2496,7 +2496,7 @@
     "id": "projeto_negromuro"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Biblioteca histórica no Rio, com acervo raro e arquitetura impressionante.",
     "preco": 0,
     "nome": "Real Gabinete Português de Leitura",
     "visitas": [
@@ -2521,7 +2521,7 @@
     "id": "real_gabinete_portugues_de_leitura"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Área de preservação ambiental em Cachoeiras de Macacu, com trilhas e biodiversidade.",
     "preco": 0,
     "nome": "Reserva Ecológica de Guapiaçu",
     "visitas": [
@@ -2545,7 +2545,7 @@
     "id": "reserva_ecologica_de_guapiacu"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Conjunto de restaurantes em Paraty especializados em frutos do mar e culinária local.",
     "preco": 80,
     "nome": "Restaurantes de Frutos do Mar em Paraty",
     "visitas": [
@@ -2569,7 +2569,7 @@
     "id": "restaurantes_de_frutos_do_mar_em_paraty"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Casa de shows no Rio, conhecida por sua decoração eclética e música ao vivo.",
     "preco": 40,
     "nome": "Rio Scenarium",
     "visitas": [
@@ -2593,7 +2593,7 @@
     "id": "rio_scenarium"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Rua em Niterói com bares e restaurantes, famosa por sua vida noturna.",
     "preco": 0,
     "nome": "Rua Vinícius de Moraes",
     "visitas": [
@@ -2617,7 +2617,7 @@
     "id": "rua_vinicius_de_moraes"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Réplica do Cristo Redentor em Itaperuna, com importância religiosa e turística.",
     "preco": 0,
     "nome": "Santuário do Cristo Redentor de Itaperuna",
     "visitas": [
@@ -2641,7 +2641,7 @@
     "id": "santuario_do_cristo_redentor_de_itaperuna"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping na Zona Sul do Rio, com lojas, cinema e gastronomia.",
     "preco": 0,
     "nome": "Shopping da Gávea",
     "visitas": [
@@ -2666,7 +2666,7 @@
     "id": "shopping_da_gavea"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping no Leblon, com marcas sofisticadas e opções gastronômicas.",
     "preco": 0,
     "nome": "Shopping Leblon",
     "visitas": [
@@ -2691,7 +2691,7 @@
     "id": "shopping_leblon"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping na Barra da Tijuca, com lojas e serviços diversos.",
     "preco": 0,
     "nome": "Shopping Metropolitano Barra",
     "visitas": [
@@ -2716,7 +2716,7 @@
     "id": "shopping_metropolitano_barra"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping no Rio, conhecido por suas promoções e variedade de lojas.",
     "preco": 0,
     "nome": "Shopping Nova América",
     "visitas": [
@@ -2741,7 +2741,7 @@
     "id": "shopping_nova_america"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping na Zona Sul do Rio, com lojas, cinema e restaurantes.",
     "preco": 0,
     "nome": "Shopping Rio Sul",
     "visitas": [
@@ -2766,7 +2766,7 @@
     "id": "shopping_rio_sul"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping no bairro da Tijuca, com opções de compras e lazer.",
     "preco": 0,
     "nome": "Shopping Tijuca",
     "visitas": [
@@ -2791,7 +2791,7 @@
     "id": "shopping_tijuca"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Fazenda em Vassouras, com atividades rurais e turismo ecológico.",
     "preco": 15,
     "nome": "Sítio do Moinho",
     "visitas": [
@@ -2815,7 +2815,7 @@
     "id": "sitio_do_moinho"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque aquático em Itaguaí, com piscinas e atrações para famílias.",
     "preco": 20,
     "nome": "Sítio Jonosake",
     "visitas": [
@@ -2839,7 +2839,7 @@
     "id": "sitio_jonosake"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Sítio do paisagista Roberto Burle Marx, com jardins e coleções botânicas.",
     "preco": 10,
     "nome": "Sítio Roberto Burle Marx",
     "visitas": [
@@ -2864,7 +2864,7 @@
     "id": "sitio_roberto_burle_marx"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Parque temático em Miguel Pereira, com réplicas de dinossauros e atividades educativas.",
     "preco": 30,
     "nome": "Terra dos Dinos",
     "visitas": [
@@ -2889,7 +2889,7 @@
     "id": "terra_dos_dinos"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Teatro histórico no Rio, palco de óperas, balés e concertos.",
     "preco": 20,
     "nome": "Theatro Municipal do Rio de Janeiro",
     "visitas": [
@@ -2914,7 +2914,7 @@
     "id": "theatro_municipal_do_rio_de_janeiro"
   },
   {
-    "descricao": "Descrição não disponível.",
+    "descricao": "Shopping na Barra da Tijuca, com lojas de luxo e gastronomia sofisticada.",
     "preco": 0,
     "nome": "VillageMall",
     "visitas": [
