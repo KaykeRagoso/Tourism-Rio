@@ -13,10 +13,6 @@
       <span style="font-size:1.08rem; color:#fff;">Escolha o tipo de ponto turístico:</span>
       <select id="filterType">
         <option value="todos">Todos os tipos</option>
-        <option value="cultural">Cultural</option>
-        <option value="natureza">Natureza</option>
-        <option value="praia">Praia</option>
-        <option value="aventura">Aventura</option>
       </select>
       <span style="font-size:1.08rem; color:#fff;">Cidade:</span>
       <select id="filterCity">
@@ -67,5 +63,34 @@
     window.db = firebase.firestore();
   </script>
   <script src="app.js"></script>
+  <script>
+    let spots = [];
+
+    async function exibirSpotsFirestore() {
+      const lista = document.getElementById('spotList');
+      lista.innerHTML = '<li>Carregando...</li>';
+
+      const snapshot = await window.db.collection("spots").get();
+      spots = [];
+      snapshot.forEach(doc => {
+        const data = doc.data();
+        data.id = doc.id;
+        data.totalVisitas = Array.isArray(data.visitas) ? data.visitas.reduce((a, b) => a + b, 0) : 0;
+        spots.push(data);
+      });
+
+      renderSpotList("todos", 4);
+    }
+
+    async function renderSpotList(type = "todos", limit = 4) {
+      let filtered = spots;
+      // ...aplique os filtros como já faz...
+    }
+
+    // Ao carregar a página:
+    window.addEventListener('DOMContentLoaded', exibirSpotsFirestore);
+
+    // Os filtros continuam chamando renderSpotList normalmente.
+  </script>
 </body>
 </html>
