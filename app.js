@@ -186,6 +186,7 @@ function renderSpotList(type = "todos", limit = 4) {
     `;
     li.addEventListener('click', function() {
       centralizaNoMapa(spot.lat, spot.lng, 15);
+      atualizarDescricaoSpot(spot);
     });
     list.appendChild(li);
   });
@@ -193,6 +194,12 @@ function renderSpotList(type = "todos", limit = 4) {
   if (filtrados.length > limit) {
     createShowMoreButton(list, filtrados.length, type);
   }
+}
+
+// Função para atualizar a descrição do ponto turístico selecionado
+function atualizarDescricaoSpot(spot) {
+  document.getElementById('spotName').textContent = spot.nome;
+  document.getElementById('spotDescription').textContent = spot.descricao || "Descrição não disponível.";
 }
 
 // Atualiza o mapa (centraliza no primeiro do filtro)
