@@ -3,7 +3,7 @@ import os
 from google.cloud import firestore
 
 # Caminho para o arquivo de credenciais do Firebase
-cred_path = 'C:/Users/16380127763/Documents/Tourism-Rio/tourism-rio-firebase-adminsdk-fbsvc-b738040b8b.json'
+cred_path = 'C:/Users/Administrator/Documents/Tourism-Rio/tourism-rio-firebase-adminsdk-fbsvc-b738040b8b.json'
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = cred_path
 db = firestore.Client()
 
